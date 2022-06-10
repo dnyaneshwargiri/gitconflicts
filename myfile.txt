@@ -1,0 +1,5 @@
+apple = apfel
+egg   = eir
+towel = handtusch
+jam   = marmelade
+juice = saft
