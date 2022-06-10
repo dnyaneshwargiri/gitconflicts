@@ -4,6 +4,7 @@ towel = handtusch
 jam   = marmelade
 juice = saft
 
+# this is professions 
 doctor = artzin
 nurse  = krankshwester
 engineer = ingineuer
